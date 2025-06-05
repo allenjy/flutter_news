@@ -124,7 +124,7 @@ class ChoiceList extends StatelessWidget {
               ),
             );
           }),
-      onRefresh: () {},
+      onRefresh: () async {},
     );
   }
 }
