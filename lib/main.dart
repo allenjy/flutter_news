@@ -29,7 +29,7 @@ class _MainPageState extends State<MainPage> {
     HomePage(),
     Text('Index 1: 视频'),
     Text('Index 2: 讲讲'),
-    Text('Index 2: 我的'),
+    Text('Index 3: 我的'),
   ];
 
   @override
